@@ -148,7 +148,6 @@ int main() {
         system("cls");
         int val;
         cout << " Welcome to Super Market Billing System\n";
-        cout << "***************************************\n";
         cout << "\t1. Add Item\n";
         cout << "\t2. Print Bill\n";
         cout << "\t3. Exit\n";
@@ -168,3 +167,4 @@ int main() {
 
     return 0;
 }
+
